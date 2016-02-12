@@ -1,0 +1,12 @@
+c:\users\qwerty\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\qwerty\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\qwerty\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\qwerty\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\qwerty\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\qwerty\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\qwerty\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\qwerty\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\qwerty\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\qwerty\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\qwerty\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\qwerty\Desktop\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache

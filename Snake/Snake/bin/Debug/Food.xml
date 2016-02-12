@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <body>
+    <Point>
+      <x>6</x>
+      <y>2</y>
+    </Point>
+  </body>
+  <color>Blue</color>
+  <sign>36</sign>
+</Food>
